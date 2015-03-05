@@ -1,6 +1,8 @@
 ###READ ME ###
-
-
+###note from MARCH 2015: I decided to add all my scripts used for this paper.
+###Renaut, S., et al. "Genomic islands of divergence are not affected by geography of speciation in sunflowers." Nature communications 4 (2013): 1827.
+###however, use at your own risks. These scripts may not be properly documented. They also need various bioinformatics softwares to run, some of which may be outdated today. (Most bioinfo software date from late 2011, 2012).
+###Sebastien Renaut 2015###
 
 ###Step 1.
 bwa_samtools.R
